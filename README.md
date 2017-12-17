@@ -1,2 +1,2 @@
 # leetcode
-# C/Python/Java Solutions of LeetCode
+# C Solutions of LeetCode
